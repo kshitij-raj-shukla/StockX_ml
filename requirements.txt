@@ -1,9 +1,9 @@
-flask==2.3.3
-flask-cors==4.0.1
-tensorflow==2.17.0
-requests==2.32.3
-numpy==1.26.4
-pandas==2.2.3
-scikit-learn==1.5.2
-python-dotenv==1.0.1
+flask
+flask-cors
+tensorflow
+requests
+numpy
+pandas
+scikit-learn
+python-dotenv
 yfinance
